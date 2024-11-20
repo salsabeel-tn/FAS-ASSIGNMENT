@@ -5,6 +5,7 @@ import signal
 import sys
 import time
 
+#THIS WILL BE OUR TEST ENVIRONMENT
 if __name__ == '__main__':
     
     exemplar = SWIM(auto_start=True)
